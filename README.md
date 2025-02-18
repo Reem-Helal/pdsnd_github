@@ -6,7 +6,7 @@ Date Created
 Project Title
 Bikeshare Data Analysis
 
-Description
+Description:
 The program interacts with the user to specify the data to analyze.  It prompts the user for the following information:
 
 City: (Chicago, New York City, or Washington)
