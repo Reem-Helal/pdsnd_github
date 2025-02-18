@@ -1,9 +1,12 @@
 Basic Data Exploration with Pandas on Bikeshare Data:
+
 Date Created
-February 18th, 2025
+18th February, 2025
 
 Project Title
 Bikeshare Data Analysis
+
+Description
 The program interacts with the user to specify the data to analyze.  It prompts the user for the following information:
 
 City: (Chicago, New York City, or Washington)
