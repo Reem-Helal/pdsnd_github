@@ -2,7 +2,6 @@ import time
 import pandas as pd
 import numpy as np
 
-
 CITY_DATA = {
     'chicago': 'chicago.csv',
     'new york city': 'new_york_city.csv',
@@ -145,7 +144,6 @@ def trip_duration_stats(df):
 
 def user_stats(df, city):
     """Display statistics on bikeshare users, including user type, gender, and birth year.
-
     Args:
         df (DataFrame): A pandas DataFrame containing the filtered bikeshare data.
         city (str): The city selected for analysis, used to filter gender and birth year information.
